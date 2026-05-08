@@ -11,6 +11,7 @@ Graph & Chart Visualization
 User-Friendly Design
 
 Technologies Used
+
 Python
 Tkinter / PyQt
 Pandas
